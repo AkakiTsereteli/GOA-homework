@@ -1,0 +1,8 @@
+print("Enter a number:")
+a = input()
+print("Enter a another number")
+b = input()
+print(a + b)
+print(a - b)
+print(a / b)
+print(a * b)
